@@ -28,7 +28,7 @@ function AddTwoNumbers(l1, l2) {
     return dummy.next;
 }
 
-// -------------------- TESTES --------------------
+// -------------------- TESTS --------------------
 
 PrintList(AddTwoNumbers(ArrayToNodeList([2,4,3]), ArrayToNodeList([5,6,4])));
 PrintList(AddTwoNumbers(ArrayToNodeList([0]), ArrayToNodeList([0])));
