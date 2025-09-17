@@ -1,6 +1,6 @@
-const ListNode = require("../Helpers/ListNode");
-const PrintList = require("../Helpers/printNodeList");
-const ArrayToNodeList = require("../Helpers/ArrayToNodeList");
+const ListNode = require("../Core/ListNode");
+const PrintList = require("../Core/printNodeList");
+const ArrayToNodeList = require("../Core/ArrayToNodeList");
 
 /**
  * @param {ListNode} l1
