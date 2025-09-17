@@ -1,39 +1,39 @@
 # LeetCode Solutions
 
-Este repositório contém minhas soluções para problemas do LeetCode, organizadas por nível de dificuldade e tópicos de estudo.  
-O objetivo é praticar, melhorar raciocínio lógico e consolidar conceitos em algoritmos e estruturas de dados.  
+This repository contains my solutions to LeetCode problems, organized by difficulty level and study topics.
+The goal is to practice, improve logical thinking, and consolidate concepts in algorithms and data structures.
 
-## Estrutura do Repositório
-- Easy: Problemas fáceis
-- Medium: Problemas de dificuldade média
-- Hard: Problemas difíceis
+## Repository Structure
+- Easy: Easy problems
+- Medium: Medium difficulty problems
+- Hard: Hard problems
 
-Cada pasta contém os arquivos das soluções, geralmente nomeados pelo número e título do problema no LeetCode.  
-Exemplo:  
-- Two_Sum.java  
-- Binary_Tree_Inorder_Traversal.py  
-- Longest_Substring_Without_Repeating_Characters.cpp  
+Each folder contains the solution files, usually named by the problem number and title on LeetCode.
+Example:
+- Two_Sum.java
+- Binary_Tree_Inorder_Traversal.py
+- Longest_Substring_Without_Repeating_Characters.cpp
 
-## Tecnologias Utilizadas
-- Linguagens principais: Javascript, C, Rust
-- Plataforma de treino: LeetCode  
+## Technologies Used
+- Main languages: Javascript, C, Rust
+- Training platform: LeetCode
 
-## Objetivos
-- Resolver problemas diariamente  
-- Aumentar a eficiência na resolução de algoritmos  
-- Preparação para entrevistas técnicas  
+## Goals
+- Solve problems daily
+- Increase efficiency in algorithm solving
+- Preparation for technical interviews
 
-## Referências
-- LeetCode  
-- GeeksforGeeks  
-- NeetCode  
+## References
+- LeetCode
+- GeeksforGeeks
+- NeetCode
 
-## Como Usar
-1. Clone o repositório:  
+## How to Use
+1. Clone the repository:
    git clone https://github.com/Jose-Nasc/leetcode.git
-2. Navegue até a pasta do problema desejado  
-3. Execute o código na sua IDE ou terminal  
+2. Navigate to the folder of the desired problem
+3. Run the code in your IDE or terminal
 
 ---
 
-Repositório mantido por José Nascimento
+Repository maintained by Jose Nascimento
