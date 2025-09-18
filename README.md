@@ -17,18 +17,20 @@ Example:
 
 ## Index of Solved Problems
 
-| #  | Problem | Topic         | Difficulty | Solution |
-|----|----------|--------------|------------|----------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | Array - Hash Table | <span style="color:#00B8A3">Easy</span> | [Solution](./Easy/01_TwoSum.js) |
-| 2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | <span style="color:#FFC01E">Medium</span> | [Solution](./Medium/02_AddTwoNumbers.js) |
-| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | String - Sliding Window | <span style="color:#FFC01E">Medium</span> | [Solution](./Medium/03_LongestSubstringWithoutRepeatingCharacters.js) |
-| 4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search - Divide and Conquer | <span style="color:#FF375F">Hard</span> | [Solution](./Hard/04_MedianOfTwoSortedArrays.js) |
-| 5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String - Two Pointers | <span style="color:#FFC01E">Medium</span> | [Solution](./Medium/05_LongestPalindromicSubstring.js) |
-| 6  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String | <span style="color:#FFC01E">Medium</span> | Coming soon |
-| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | <span style="color:#FFC01E">Medium</span> | Coming soon |
-| 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | String | <span style="color:#FFC01E">Medium</span> | Coming soon |
-| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | <span style="color:#00B8A3">Easy</span> | Coming soon |
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | String - Dynamic Programming | <span style="color:#FF375F">Hard</span> | Coming soon |
+| #  | Problem | Topic | Difficulty | Solution |
+|----|---------|-------|------------|----------|
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | Array - Hash Map | Easy | [Solution](./Easy/01_TwoSum.js) |
+| 2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | [Solution](./Medium/02_AddTwoNumbers.js) |
+| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | String - Hash Map - Sliding Window  | Medium | [Solution](./Medium/03_LongestSubstringWithoutRepeatingCharacters.js) |
+| 4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search - Divide and Conquer | Hard | [Solution](./Hard/04_MedianOfTwoSortedArrays.js) |
+| 5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String - Two Pointers | Medium | [Solution](./Medium/05_LongestPalindromicSubstring.js) |
+| 6  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String | Medium | Coming soon |
+| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | Medium | Coming soon |
+| 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | String | Medium | Coming soon |
+| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | Coming soon |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | String - Recursion | Hard | Coming soon |
+
+
 
 
 
