@@ -24,10 +24,10 @@ Example:
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | String - Hash Map - Sliding Window  | Medium | [Solution](./Medium/03_LongestSubstringWithoutRepeatingCharacters.js) |
 | 4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search - Divide and Conquer | Hard | [Solution](./Hard/04_MedianOfTwoSortedArrays.js) |
 | 5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String - Two Pointers | Medium | [Solution](./Medium/05_LongestPalindromicSubstring.js) |
-| 6  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String | Medium | Coming soon |
-| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | Medium | Coming soon |
-| 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | String | Medium | Coming soon |
-| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | Coming soon |
+| 6  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String | Medium | [Solution](./Medium/06_ZigzagConversion.js) |
+| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | Medium | [Solution](./Medium/07_Reverse_Integer.js) |
+| 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | String | Medium | [Solution](./Medium/08_StringToInteger_Atoi.js) |
+| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | [Solution](./Easy/09_Palindrome_Number.js) |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | String - Recursion | Hard | Coming soon |
 
 
