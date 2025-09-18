@@ -4,8 +4,9 @@ This repository contains my solutions to LeetCode problems, organized by difficu
 The goal is to practice, improve logical thinking, and consolidate concepts in algorithms and data structures.
 
 ## Repository Structure
+- Core: Helper methods
 - Easy: Easy problems
-- Medium: Medium difficulty problems
+- Medium: Medium problems
 - Hard: Hard problems
 
 Each folder contains the solution files, usually named by the problem number and title on LeetCode.
