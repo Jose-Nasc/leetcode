@@ -1,4 +1,4 @@
-// Note: I failed to optimize O(m+n), but it passes all tests. I'm return later to optimize :)
+// Note: I failed to optimize O(m+n), but it passes all tests. I'll return later to optimize :)
 
 /**
  * @param {number[]} nums1
